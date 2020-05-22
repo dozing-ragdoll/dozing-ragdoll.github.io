@@ -1,4 +1,4 @@
-```markdown
+
 本项目是为了Aria Jin(金子涵)单独设立的青春有你2选秀日记博客。
 
 本项目完全为个人zqsg追星项目，不涉及任何利益。
@@ -16,5 +16,5 @@
 2. BY的博客模板应该是从这个模板 [Hux](https://github.com/Huxpro/huxpro.github.io) fork 的, 也一起感谢一下。
 3. 感谢 Jekyll、Github Pages 和 Bootstrap!
 4. 感谢所有欣赏喜欢Aria Jin的朋友，你们的支持就是她前进的最大动力。
-```
+
 
